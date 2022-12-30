@@ -94,7 +94,7 @@ span.at {
 
 
 /* KINGS */
-#shoutbox a[href$="member.php?action=profile&uid=707074"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -114,7 +114,7 @@ span.at {
   border-bottom:1px dotted #ffd700
 }
 /* BOSS OF THE BOSSES */
-#shoutbox a[href$="member.php?action=profile&uid=100000099"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -131,7 +131,7 @@ span.at {
 
 /* EVIL SANGO BANGO - color orange */
 
-#shoutbox a[href$="member.php?action=profile&uid=100000010"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   color: #fa3300;
   -webkit-text-fill-color: #fa3300;
   text-shadow: 0px 0px 3px #fa3300;
@@ -140,7 +140,7 @@ span.at {
 }
 
 /* ROYALTY */
-#shoutbox a[href$="member.php?action=profile&uid=2160"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -159,7 +159,7 @@ span.at {
 }
 
 /* The Almighty */
-#shoutbox a[href$="member.php?action=profile&uid=10000005"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -174,7 +174,7 @@ span.at {
 }
 
 /* Dreams */
-#shoutbox a[href$="member.php?action=profile&uid=10000004"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -190,7 +190,7 @@ span.at {
 }
 
 /* irefunder */
-#shoutbox a[href$="member.php?action=profile&uid=2734070"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -205,7 +205,7 @@ span.at {
 }
 
 /* refundgod */
-#shoutbox a[href$="member.php?action=profile&uid=10000002"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -237,5 +237,20 @@ span.at {
     text-shadow: 0px 0px 5px #540973;
     background-image: url(https://static.cracked.to/images/bg1.gif),linear-gradient(90deg,#f00 0%,#00ff2a 100%,#f00);
     animation: harvey 5s infinite linear;
+
+}
+
+/* rank 1 */
+#shoutbox a[href$="member.php?action=profile&uid=2160"]>span {
+  all: initial;
+  
+  font-family: 'Roboto',sans-serif;
+  font-size: 13px;
+
+    color: #fff;
+    background-repeat: repeat;
+    text-shadow: 2px 2px 15px #fff;
+    background: url(https://static.cracked.to/images/bg1.gif);
+    font-weight: 700;
 
 }

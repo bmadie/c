@@ -140,7 +140,7 @@ span.at {
 }
 
 /* ROYALTY */
-#shoutbox a[href$="member.php?action=profile&uid=99999999991"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=2160"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
@@ -241,7 +241,7 @@ span.at {
 }
 
 /* rank 1 */
-#shoutbox a[href$="member.php?action=profile&uid=2160"]>span {
+#shoutbox a[href$="member.php?action=profile&uid=9999999999999"]>span {
   all: initial;
   
   font-family: 'Roboto',sans-serif;
